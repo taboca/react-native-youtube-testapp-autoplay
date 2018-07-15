@@ -60,8 +60,7 @@ const styles = StyleSheet.create({
 * npm start&
 * react-native run-android  
 
-### gradle compatibility between this app and the react-native-youtube gradle file
-
+### Check gradle compatibility between this app's build.gradle and the react-native-youtube build.gradle 
 
 For compiling, you may want to check the compatibility between
 
